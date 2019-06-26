@@ -37,7 +37,7 @@
 		
 		<repository>
 		    <id>nexus</id>
-		    <url>http://13.233.163.143:8081/repository/maven-releases/</url>
+		    <url>http://13.233.163.143:8081/nexus/content/repositories/deploy1/</url>
 		</repository>
   	</distributionManagement>
 	
